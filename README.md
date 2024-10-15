@@ -1,6 +1,6 @@
 # Hi there, I'm Jerónimo! 👋
 
-My name is Jerónimo Luza, I'm from Mercedes, province of Buenos Aires, Argentina, now living in Washington DC, USA. 
+My name is Jerónimo Luza, I'm from Mercedes, province of Buenos Aires, Argentina. 
 
 I am a Spatial Data Scientist focusing on technology and quantitative analysis in policy research. 
 
