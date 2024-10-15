@@ -13,3 +13,8 @@ My data toolkit is composed by:
 - AWS
 
 While not working, I like contributing to open source software, playing sports, and doing fun stuff outside.
+
+Some of my contributions:
+- [UrbanPy](https://github.com/EL-BID/urbanpy)
+- [SentinelDownloader](https://github.com/EL-BID/SentinelDownloader)
+- [rasterstats](https://github.com/perrygeo/python-rasterstats)
