@@ -4,6 +4,8 @@ My name is Jerónimo Luza, and I am a Spatial Data Scientist focusing on technol
 
 I'm currently working for the Strategic Planning Division (SPD) at the Inter-American Development Bank (IDB), where I leverage cloud computing technologies and data science methods to facilitate impact evaluations on social and environmental infrastructure projects.
 
+As a research assistant, I have participated in studies involving the impact of COVID-19 on mobility and transport, urban-policy land use regulation impacts on informal housing settlements, and I am currently working on studying the impact of hurricanes over economic and electricity service recovery.
+
 My data toolkit is composed by:
 
 - Python
