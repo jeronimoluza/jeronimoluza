@@ -10,6 +10,7 @@ My data toolkit is composed by:
 
 - Python
 - R
+- SQL
 - Unix/Linux
 - Bash
 - AWS
