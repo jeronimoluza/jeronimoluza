@@ -1,6 +1,6 @@
-Hi! 👋
+# Hi there, I'm Jerónimo! 👋
 
-My name is Jerónimo Luza, and I am a Spatial Data Scientist focusing on technology and quantitative analysis in policy research. 
+I am a Spatial Data Scientist focusing on technology and quantitative analysis in policy research. 
 
 I'm currently working for the Strategic Planning Division (SPD) at the Inter-American Development Bank (IDB), where I leverage cloud computing technologies and data science methods to facilitate impact evaluations on social and environmental infrastructure projects.
 
