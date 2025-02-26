@@ -4,7 +4,7 @@
 
 ## Education
 
-- 2023.05-2024.12: Master of Science in Spatial Data Science, Penn State University.
+- 2023-2024: Master of Science in Spatial Data Science, Penn State University.
 - 2013-2018: Bachelor's Degree in Economics, Universidad Torcuato Di Tella
 
 ## Research Interests
